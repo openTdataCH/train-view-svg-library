@@ -18,6 +18,14 @@ The SVG assets help represent wagons and wagon characteristics including class d
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Design of graphics
+
+The graphics are newly designed as SVG for the above mentioned visualiszation. Some of them are newly designed in order to be selfspeaking others are borrowed from the SBB to be rerecognised by train passanger. We did ask for permission and got following answer (original in German):
+
+Durch die Bereitstellung der grafischen Darstellung der Zugformation wird im Rahmen der Systemführerschaft das Bestreben zur weiteren Erhöhung der Konsistenz der Kundeninformation im öffentlichen Verkehr der Schweiz vorangetrieben. Dies trägt dazu bei, die Nutzererfahrung zu verbessern und die Informationsvermittlung für die Reisenden zu optimieren.
+Daher bestätigen wir hiermit, dass die Komponente [sbb-train-formation](https://lyne-storybook.app.sbb.ch/?path=/docs/elements-timetable-sbb-train-formation--docs) sowie die darin verwendeten Fahrplan-Icons über die Plattform opentransportdata.swiss für nicht kommerzielle Projekte zur Verfügung gestellt werden dürfen.
+
+
 ## License
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
